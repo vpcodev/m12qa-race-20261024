@@ -1,1 +1,1 @@
-{"name":"x","plugins":[{"name":"IDX2-ip1","source":"./plugins/ip1"},{"name":"IDX-ip2","source":"./plugins/ip2"},{"name":"IDX-ip3","source":"./plugins/ip3"}],"pad":""}
+{"name":"x","plugins":[{"name":"IDX3-ip1","source":"./plugins/ip1"},{"name":"IDX-ip2","source":"./plugins/ip2"},{"name":"IDX-ip3","source":"./plugins/ip3"}],"pad":""}
